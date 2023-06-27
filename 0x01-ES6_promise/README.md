@@ -1,7 +1,5 @@
 # 0x01. ES6 Promises
 
-### [0. Keep every promise you make and only make promises you can keep](./0-promise.js)
-
 ## Description:bulb:
 
 One simply does not use async/await without knowing promises!
@@ -14,7 +12,27 @@ One simply does not use async/await without knowing promises!
 - How to use an `async` function
 
 ## Files:card_file_box:
+### [0. Keep every promise you make and only make promises you can keep](./0-promise.js)
 
+### [1. Don't make a promise...if you know you can't keep it](./1-promise.js)
+
+### [2. Catch me if you can!](./2-then.js)
+
+### [3. Handle multiple successful promises](./3-all.js)
+
+### [4. Simple promise](./4-user-promise.js)
+
+### [5. Reject the promises](./5-photo-reject.js)
+
+### [6. Handle multiple promises](./6-final-user.js)
+
+### [7. Load balancer](./7-load_balancer.js)
+
+### [8. Throw error / try catch](./8-try.js)
+
+### [9. Throw an error](./9-try.js)
+
+### [10. Await / Async](./100-await.js)
 
 
 
