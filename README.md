@@ -2,9 +2,11 @@
 
 
 ## Description:bulb:
-
-## Files:card_file_box:
+Contains projects for the front-end specialization of the ALX-SE program.
+## Directories:card_file_box:
 ### [0x00-ES6_basic](./0x00-ES6_basic)
+
+### [0x01-ES6_promise](./0x01-ES6_promise)
 ---
 
 ## Author
