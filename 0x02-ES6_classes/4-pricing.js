@@ -1,6 +1,6 @@
 import Currency from './3-currency';
 
-class Pricing {
+export default class Pricing {
   constructor(amount, currency) {
     this._amount = amount;
     this._currency = currency;
@@ -26,9 +26,7 @@ class Pricing {
     if (newCurrency instanceof Currency) {
       this._currency = newCurrency;
     } else {
-      throw new TypeError(
-        'Currency must be an instance of the Currency class.',
-      );
+      throw new TypeError('Currency must be an instance of the Currency class.');
     }
   }
 
@@ -39,7 +37,8 @@ class Pricing {
   static convertPrice(amount, conversionRate) {
     if (typeof amount === 'number' && typeof conversionRate === 'number') {
       return amount * conversionRate;
+    } else {
+      throw new TypeError('Amount and conversionRate must be numbers.');
     }
-    throw new TypeError('Amount and conversionRate must be numbers.');
   }
 }
