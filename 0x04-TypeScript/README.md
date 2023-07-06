@@ -12,11 +12,18 @@
 - Basic nominal typing with Typescript
 
 ## Files:card_file_box:
+
 ### [task_0](./task_0)
 
+### [task_1](./task_1)
 
+### [task_2](./task_2)
 
+### [task_3](./task_3)
 
+### [task_4](./task_4)
+
+### [task_5](./task_5)
 
 ## Author
 
