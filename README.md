@@ -10,6 +10,7 @@ Contains projects for the front-end specialization of the ALX-SE program.
 
 ### [0x02-ES6_classes](./0x02-ES6_classes)
 ### [0x03-ES6_data_manipulation](./0x03-ES6_data_manipulation)
+### [0x04. Typescript](./0x04-TypeScript)
 ---
 
 ## Author
